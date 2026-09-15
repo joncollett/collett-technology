@@ -23,3 +23,5 @@ Do not remove the hidden _next field unless you change the form workflow.
 
 Website:
 https://colletttechnology.com/
+
+LOGO NOTE: logo.svg and logo-mark.svg use a traced vector of the approved Collett Technology mark reference.
