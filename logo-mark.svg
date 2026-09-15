@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 110">
-<path fill="none" stroke="#F5F7F8" stroke-linecap="round" stroke-linejoin="round" stroke-width="18" d="M172 18H112L66 55l46 37h60"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 110" role="img" aria-labelledby="title">
+<title>Collett Technology logo mark</title>
+<path fill="none" stroke="currentColor" stroke-linecap="square" stroke-linejoin="miter" stroke-width="18" d="M172 18H112L66 55l46 37h60"/>
 <path fill="#5E88A8" d="M108 43h43l-18 24H90z"/>
 </svg>
