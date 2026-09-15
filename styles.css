@@ -10,3 +10,7 @@
 .footer{background:#09151e;color:#d9e1e5;padding:25px 0}.footer-inner{display:flex;justify-content:space-between;font-size:10px;letter-spacing:2px}
 @media(max-width:900px){.wrap{width:min(100% - 36px,1340px)}.header-cta,.nav{display:none}.menu-toggle{display:block}.nav.open{display:flex;position:absolute;top:82px;left:0;right:0;background:#09151e;flex-direction:column;gap:0;padding:10px 24px 20px}.nav.open a{padding:13px 0;width:100%;border:0}.hero{min-height:680px}.hero-location,.hero-micro{display:none}.service-grid,.about-grid,.contact-grid{grid-template-columns:1fr}.service+ .service{border-left:0;border-top:1px solid var(--line)}.about-grid{gap:45px}.about-brand{border-right:0;border-bottom:1px solid #cfd7dc;padding:0 0 45px}.contact-grid{gap:45px}.contact{padding:65px 0}.about{padding:65px 0}}
 @media(max-width:560px){.brand strong{font-size:18px}.brand small{font-size:8px}.hero{min-height:720px}.hero-content{padding-top:90px}.hero h1{font-size:42px}.hero-lead{font-size:16px}.eyebrow{font-size:10px;letter-spacing:2px}.service{padding:38px 5px}.statement{height:150px}.statement-copy{font-size:13px;letter-spacing:3px}.statement-copy small{font-size:8px}.about-copy h2,.contact-info h2{font-size:32px}.form-row{grid-template-columns:1fr}.footer-inner{flex-direction:column;gap:10px}}
+
+/* Final vector brand lockup */
+.brand-logo{width:220px;height:auto;display:block;}
+@media(max-width:760px){.brand-logo{width:190px;}}

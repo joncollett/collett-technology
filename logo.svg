@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 160" role="img" aria-labelledby="title">
-<title>Collett Technology</title>
-<g transform="translate(0 25)">
-  <path fill="none" stroke="currentColor" stroke-linecap="square" stroke-linejoin="miter" stroke-width="16" d="M145 15H98L58 55l40 40h47"/>
-  <path fill="#5E88A8" d="M95 42h38l-16 21H79z"/>
-</g>
-<text x="185" y="80" fill="currentColor" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="700" letter-spacing="8">COLLETT</text>
-<text x="188" y="125" fill="currentColor" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="300" letter-spacing="8">TECHNOLOGY</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 85"><path fill="#101A22" d="M 7 38 L 25 20 L 78 20 L 63 35 L 33 35 L 20 48 L 33 61 L 63 61 L 78 76 L 25 76 L 7 58 L 7 38 Z"/><path fill="#5E88A8" d="M 30 43 L 58 43 L 47 54 L 22 54 Z"/><text x="92" y="43" fill="#101A22" font-family="Montserrat,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">COLLETT</text><text x="93" y="61" fill="#101A22" font-family="Montserrat,Arial,sans-serif" font-size="9" font-weight="400" letter-spacing="3">TECHNOLOGY</text></svg>
